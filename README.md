@@ -12,17 +12,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emon-hossain7&label=Profile%20views&color=0e75b6&style=flat" alt="emon-hossain7" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-<a href="https://twitter.com/@emon_hossain7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@emon_hossain7" height="30" width="40" /></a>
-  
-<a href="https://linkedin.com/in/emon007iu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emon007iu" height="30" width="40" /></a>
-  
-<a href="https://fb.com/emonhossain6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emonhossain6" height="30" width="40" /></a>
-</p>
-
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...react.js node.js
 - 👯 I’m looking to collaborate on ...
