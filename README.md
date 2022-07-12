@@ -6,7 +6,7 @@
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emon-hossain7&label=Profile%20views&color=0e75b6&style=flat" alt="emon-hossain7" /> </p>
 
-####My name is Emon Hossain. Description____.
+<!--####My name is Emon Hossain. Description____.-->
 
 ## 🌐 Socials: Connect with me!
 
