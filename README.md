@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm https://github.com/rahuldkjain/github-profile-readme-generator</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi there, I'm Emon Hossain 👋 a Junior Software Developer.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emon-hossain7&label=Profile%20views&color=0e75b6&style=flat" alt="emon-hossain7" /> </p>
 
