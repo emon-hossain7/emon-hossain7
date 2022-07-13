@@ -4,7 +4,7 @@
 ![I am GitHub Readme Generator's creator](https://scontent.fdac7-1.fna.fbcdn.net/v/t1.6435-9/73459022_899087537160200_4627617194589552640_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=174925&_nc_ohc=JmmW6-KWUgkAX-SKM1g&_nc_ht=scontent.fdac7-1.fna&oh=00_AT8ASF_ji0Q5ZlcNq2jgGDLrWZCKBPXuerSH1mgTDt4HVw&oe=62F1EC08)
 
 <hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emon-hossain7&label=Profile%20views&color=0e75b6&style=flat" alt="emon-hossain7" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=emon-hossain7&label=Profile%20views&color=0e75b6&style=flat" alt="emon-hossain7" /> </p>-->
 
 <!--####My name is Emon Hossain. Description____.-->
 
@@ -12,8 +12,6 @@
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/emonhossain6) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emon007iu/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@emon_hossain7) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emon.hossain.wd@gmail.com)
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emon-hossain7&label=Profile%20views&color=0e75b6&style=flat" alt="emon-hossain7" /> </p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...react.js node.js
