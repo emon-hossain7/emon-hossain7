@@ -39,7 +39,7 @@
     <!-- head -->
     <thead>
       <tr>
-        <th></th>
+        <th>Number</th>
         <th>Projects</th>
         <th>Description</th>
         <th>Website Link</th>
@@ -54,20 +54,6 @@
         <td>Projects Description</td>
         <td>Website Link</td>
         <td>Code Link</td>
-      </tr>
-      <!-- row 2 -->
-      <tr>
-        <th>2</th>
-        <td>Hart Hagerty</td>
-        <td>Desktop Support Technician</td>
-        <td>Purple</td>
-      </tr>
-      <!-- row 3 -->
-      <tr>
-        <th>3</th>
-        <td>Brice Swyre</td>
-        <td>Tax Accountant</td>
-        <td>Red</td>
       </tr>
     </tbody>
   </table>
