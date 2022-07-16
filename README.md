@@ -33,26 +33,45 @@
   
 ## 💻 My Projects
   
-<table width="100%">
-  <thead align="center">
-    <tr>
-      <td><b>Projects</b></td>
-      <td><b>Description</b></td>
-      <td><b>Live Link</b></td>
-      <td><b>Code Link</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Projects Name</td>
-      <td>Projects Description</td>
-      <td><a href="" target="_blank">Live Link</a></td>
-      <td><a href="" target="_blank"></a>Code Link</td>
-    </tr>
-    <tr>
-  </tbody>
-</table>
-
+### Table
+<div class="overflow-x-auto">
+  <table class="table w-full">
+    <!-- head -->
+    <thead>
+      <tr>
+        <th></th>
+        <th>Projects</th>
+        <th>Description</th>
+        <th>Website Link</th>
+         <th>Code Link</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- row 1 -->
+      <tr>
+        <th>1</th>
+        <td>Projects Name</td>
+        <td>Projects Description</td>
+        <td>Website Link</td>
+        <td>Code Link</td>
+      </tr>
+      <!-- row 2 -->
+      <tr>
+        <th>2</th>
+        <td>Hart Hagerty</td>
+        <td>Desktop Support Technician</td>
+        <td>Purple</td>
+      </tr>
+      <!-- row 3 -->
+      <tr>
+        <th>3</th>
+        <td>Brice Swyre</td>
+        <td>Tax Accountant</td>
+        <td>Red</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 
 <details>
