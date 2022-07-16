@@ -39,7 +39,7 @@
     <!-- head -->
     <thead>
       <tr>
-        <th>Number</th>
+        <th>List</th>
         <th>Projects</th>
         <th>Description</th>
         <th>Website Link</th>
