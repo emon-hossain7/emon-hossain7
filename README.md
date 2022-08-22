@@ -1,4 +1,4 @@
-﻿## Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi"> I'm Emon Hossain as a <h1>Junior Software Developer</h1>. from <img src="assets/bangladesh.png" width="18"/> Bangladesh.
+﻿## Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi"> I'm Emon Hossain as a Junior Software Developer.
 
 <!-- ![Github Banner](assets/emon1.jpg) -->
 
